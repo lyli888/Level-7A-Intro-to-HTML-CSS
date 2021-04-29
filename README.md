@@ -1,4 +1,4 @@
-# Weather Visualization Dashboard on the Web
+# Visualizing Via Web Design
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
@@ -35,13 +35,9 @@ The website must, at the top of every page, have a navigation menu that:
 
 Finally, the website must be deployed to GitHub pages.
 
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
-
-Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
 ### Considerations
 
-* You may use the [weather data](cities.csv) or choose another dataset. Alternatively, you may use the included [cities dataset](cities.csv) and pull the images from the [assets folder](assets/).
+* Use the included [cities dataset](cities.csv) and pull the images from the [assets folder](assets/).
 * You must use Bootstrap. This includes using the Bootstrap `navbar` component for the header on every page, the bootstrap table component for the data page, and the Bootstrap grid for responsiveness on the comparison page.
 * You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
 * Be sure to use a CSS media query for the navigation menu.
